@@ -1,4 +1,12 @@
-### Hi there 👋
+### Introduction
+안녕하세요 저는 영남대학교 컴퓨터공학과 23학번 정지혜입니다.
+## Career
+- 영남대학교 컴퓨터학과
+## Links
+- E-mail : jihey8564@gmail.com
+
+
+
 
 <!--
 **stophhh/stophhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
